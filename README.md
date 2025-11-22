@@ -9,7 +9,7 @@ This project is a full-stack redesign of the [Volatus Aerospace](https://volatus
 1. **Prerequisites**: Ensure you have [Node.js](https://nodejs.org) (version 16 or higher) and npm installed.
 2. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shashankdakshiitb/Volatus-Aerospace-demo-website-.git
    cd VolatusRedesign
 
 

@@ -1,3 +1,4 @@
+// Developed by SHASHANK DAKSH
 import { QueryClient, QueryFunction } from "@tanstack/react-query";
 
 async function throwIfResNotOk(res: Response) {
